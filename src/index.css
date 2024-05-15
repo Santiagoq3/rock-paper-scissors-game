@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #fff;
+  --clr-scissors-gradient: hsl(39, 89%, 49%) ;
+  --clr-paper-gradient: hsl(230, 89%, 62%) ;
+  --clr-rock-gradient: hsl(349, 71%, 52%) ;
+  --clr-lizard-gradient: hsl(261, 73%, 60%) ;
+  --clr-cyan-gradient: hsl(189, 59%, 53%) ;
+
+
+  --clr-dark-text: hsl(229, 25%, 31%);
+  --clr-score-text: hsl(229, 64%, 46%);
+  
+  
+  --clr-header-outline: hsl(217, 16%, 45%);
+
+  --clr-radial-gradient-from: hsl(214, 47%, 23%) ;
+  --clr-radial-gradient-to: hsl(237, 49%, 15%) ;
+
+
+}
+
+
+
